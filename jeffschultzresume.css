@@ -21,7 +21,8 @@ img {
     background-color: #24d8dc;
     position: fixed;
     z-index: 1;
-	padding-bottom: 20px;
+	margin-left: 10px;
+	margin-right: 10px;
 }
 .left {
     float: left;
