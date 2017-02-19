@@ -8,6 +8,7 @@ div {
     display: inline-block;
     border: 1px solid black;
     border-radius: 15px;
+	margin-left: 15px;
 }
 img {
     height: 139px;
@@ -25,7 +26,7 @@ img {
 .left {
     float: left;
     height: 1600px;
-    width:400px;
+    width: 350px;
     display: inline-block;
     background-color: #DDE8DD;
 	float: left;
@@ -63,7 +64,7 @@ h1 {
     position: relative;
     padding: 0 0 0 100px;
     font-family: Courier;
-    font-size: 30px;
+    font-size: 28px;
 }
 
 #obj {
