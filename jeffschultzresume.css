@@ -58,6 +58,7 @@ h1 {
     float: right;
     font-size: 30px;
     padding: 40px 20px 0 0;
+	text-align: justify;
 }
 .ulleft {
     position: relative;
