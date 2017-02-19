@@ -28,7 +28,8 @@ img {
     width: 300px;
     display: inline-block;
     background-color: #DDE8DD;
-	float: left;
+	position: absolute;
+	left: 40px;
 }
 .right {
     height: 1600px;
@@ -102,7 +103,7 @@ h1 {
 	margin: 30px 0 0 40px;
 }
 #edr1 {
-  	margin: 170px 0 0 40px;
+  	margin: 190px 0 0 40px;
 }
 .intr {
 	position: relative;
