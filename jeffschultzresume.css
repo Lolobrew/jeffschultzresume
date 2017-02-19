@@ -9,7 +9,6 @@ div {
     border: 1px solid black;
     border-radius: 15px;
     margin: 0 0 0 15px;
-    position: absolute;
 }
 img {
     height: 139px;
@@ -22,7 +21,6 @@ img {
     background-color: #24d8dc;
     position: fixed;
     z-index: 1;
-	padding-left: 140px;
 }
 .left {
     float: left;
@@ -37,7 +35,6 @@ img {
     display: inline-block;
     background-color: silver;
     float: right;
-    position: absolute;
 }
 #footer {
     height: 100px;
@@ -51,7 +48,7 @@ h1 {
     font-size: 40px;
     position: absolute;
 	top: 20px;
-	left: 140px;
+	left: 180px;
 }
 #pheader {
     font-family: Courier;
