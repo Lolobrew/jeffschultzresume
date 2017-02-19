@@ -44,9 +44,8 @@ img {
     width: 1250px;
     clear: both;
     background-color:#24d8dc;
-    padding: 10px 50px 50px 200px;
+    padding: 10px 50px 50px 150px;
     font-size: 30px;
-    align: center;
 }    
 h1 {
     font-familY: Courier;
@@ -80,6 +79,7 @@ h1 {
     margin: 290px 0 0 0;
 }
 #ref {
+	margin: 200px 0 0 0;
 }
 .pright {
     font-size: 25px;
