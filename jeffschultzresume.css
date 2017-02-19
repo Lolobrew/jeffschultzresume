@@ -23,7 +23,6 @@ img {
     z-index: 1;
 }
 .left {
-    float: left;
     height: 1600px;
     width: 300px;
     display: inline-block;
@@ -37,7 +36,6 @@ img {
     display: inline-block;
     background-color: silver;
     float: right;
-	margin-right: 10px;
 }
 #footer {
     height: 100px;
