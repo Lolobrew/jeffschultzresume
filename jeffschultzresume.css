@@ -44,17 +44,17 @@ img {
     width: 1500px;
     clear: both;
     background-color:#24d8dc;
-    font-size: 30px;
+    font-size: 25px;
 }    
 h1 {
     font-family: Courier;
     font-size: 40px;
-    padding: 20px 0 0 220px;
+    padding: 10px 0 15px 220px;
     position: absolute;
 }
 #pheader {
     font-family: Courier;
-    font-size: 16px;
+    font-size: 18px;
     padding: 10px 20px 50px 0;
     float: right;
 }
