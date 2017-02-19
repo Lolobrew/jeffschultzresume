@@ -29,17 +29,15 @@ img {
     display: inline-block;
     background-color: #DDE8DD;
 	position: absolute;
-	left: 30px;
+	left: 5px;
 }
 .right {
     height: 1600px;
-    width: 72%;
+    width: 68%;
     display: inline-block;
     background-color: silver;
     float: right;
 	margin-right: 10px;
-	position: absolute;
-	right: 30px;
 }
 #footer {
     height: 100px;
