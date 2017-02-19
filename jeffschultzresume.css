@@ -103,7 +103,6 @@ h1 {
 	margin: 30px 0 0 40px;
 }
 #edr1 {
-	z-index: none;
   	margin: 170px 0 0 40px;
 }
 .intr {
@@ -135,8 +134,3 @@ a:visited {
 	margin: 140px 0 0 40px;
 	display: inline-block;
 }
-#refr2 {
-	margin: 20px 0 0 40px;
-	display:inline-block;
-}
-
