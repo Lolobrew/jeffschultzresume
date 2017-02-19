@@ -3,7 +3,6 @@ div {
     border-radius: 5px;
 }
 #top-left {
-	position: absolute;
     height: 140px;
     width: 100px;
     display: inline-block;
@@ -13,7 +12,6 @@ div {
     
 }
 img {
-	position: absolute;
     height: 139px;
     width: 100px;
     border-radius: 15px;
