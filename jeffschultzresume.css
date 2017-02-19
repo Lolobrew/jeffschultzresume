@@ -46,11 +46,11 @@ img {
     background-color:#24d8dc;
     font-size: 25px;
 }    
-h1 {
+#h1 {
     font-family: Courier;
     font-size: 40px;
     position: absolute;
-	padding-left: -160px;
+	margin: 10px 0 10px 200px;
 }
 #pheader {
     font-family: Courier;
