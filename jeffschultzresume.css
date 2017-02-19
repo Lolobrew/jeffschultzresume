@@ -8,6 +8,7 @@ div {
     display: inline-block;
     border: 1px solid black;
     border-radius: 15px;
+	position: relative;
 }
 img {
     height: 139px;
@@ -27,6 +28,7 @@ img {
     width:400px;
     display: inline-block;
     background-color: #DDE8DD;
+	position: absolute;
 }
 .right {
     height: 1600px;
