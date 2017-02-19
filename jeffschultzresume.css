@@ -49,7 +49,7 @@ h1 {
     font-family: Courier;
     font-size: 40px;
     position: absolute;
-    margin: 20px 0 40px 140px;
+	padding-left: -160px;
 }
 #pheader {
     font-family: Courier;
