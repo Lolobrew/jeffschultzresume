@@ -21,8 +21,7 @@ img {
     background-color: #24d8dc;
     position: fixed;
     z-index: 1;
-	margin-left: 10px;
-	margin-right: 10px;
+	padding-left: 10px;
 }
 .left {
     float: left;
@@ -52,7 +51,6 @@ h1 {
     position: absolute;
 	top: 15px;
 	left: 180px;
-	bottom: 20px;
 }
 #pheader {
     font-family: Courier;
@@ -65,7 +63,7 @@ h1 {
     position: relative;
     padding: 0 0 0 100px;
     font-family: Courier;
-    font-size: 28px;
+    font-size: 25px;
 }
 
 #obj {
