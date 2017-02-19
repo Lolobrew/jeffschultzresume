@@ -4,8 +4,8 @@ div {
 }
 #top-left {
 	position: absolute;
-    height: 240px;
-    width: 180px;
+    height: 100px;
+    width: 60px;
     display: inline-block;
     border: 1px solid black;
     border-radius: 15px;
@@ -13,12 +13,12 @@ div {
     
 }
 img {
-    height: 239px;
-    width: 180px;
+    height: 99px;
+    width: 60px;
     border-radius: 15px;
 }
 #header {
-    height: 240px;
+    height: 100px;
     width: 1500px;
     background-color: #24d8dc;
     position: fixed;
@@ -40,7 +40,7 @@ img {
     position: absolute;
 }
 #footer {
-    height: 100px;
+    height: 80px;
     width: 1250px;
     clear: both;
     background-color:#24d8dc;
@@ -49,7 +49,7 @@ img {
 }    
 h1 {
     font-familY: Courier;
-    font-size: 60px;
+    font-size: 40px;
     padding: 40px 0 0 250px;
     position: absolute;
 }
