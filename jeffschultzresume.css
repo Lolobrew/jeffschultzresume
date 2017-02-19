@@ -4,7 +4,7 @@ div {
 }
 #top-left {
     height: 240px;
-    width: 200px;
+    width: 180px;
     display: inline-block;
     border: 1px solid black;
     border-radius: 15px;
@@ -13,8 +13,9 @@ div {
 }
 img {
     height: 239px;
-    width: 200px;
+    width: 180px;
     border-radius: 15px;
+	text-wrap: right;
 }
 #header {
     height: 240px;
@@ -57,7 +58,7 @@ h1 {
     font-family: Courier;
     font-size: 30px;
     padding: 40px 20px 0 0;
-	text-align: justify;
+	float: right;
 }
 .ulleft {
     position: relative;
