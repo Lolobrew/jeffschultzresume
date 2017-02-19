@@ -9,7 +9,7 @@ div {
     display: inline-block;
     border: 1px solid black;
     border-radius: 15px;
-    margin: 0 0 0 10px;
+    margin: 0 0 0 15px;
     
 }
 img {
@@ -48,14 +48,14 @@ img {
 }    
 h1 {
     font-family: Courier;
-    font-size: 30px;
-    padding: 20px 0 0 250px;
+    font-size: 40px;
+    padding: 20px 0 0 220px;
     position: absolute;
 }
 #pheader {
     font-family: Courier;
-    font-size: 20px;
-    padding: 10px 20px 40px 0;
+    font-size: 16px;
+    padding: 10px 20px 50px 0;
     float: right;
 }
 .ulleft {
