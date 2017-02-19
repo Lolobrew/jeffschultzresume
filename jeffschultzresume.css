@@ -49,8 +49,8 @@ img {
 h1 {
     font-family: Courier;
     font-size: 40px;
-    padding: 10px 0 40px 220px;
-    position: absolute;
+    padding: 20px 0 40px 150px;
+    position: relative;
 }
 #pheader {
     font-family: Courier;
