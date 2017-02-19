@@ -4,8 +4,8 @@ div {
 }
 #top-left {
 	position: absolute;
-    height: 100px;
-    width: 60px;
+    height: 140px;
+    width: 100px;
     display: inline-block;
     border: 1px solid black;
     border-radius: 15px;
@@ -13,12 +13,12 @@ div {
     
 }
 img {
-    height: 99px;
-    width: 60px;
+    height: 139px;
+    width: 100px;
     border-radius: 15px;
 }
 #header {
-    height: 100px;
+    height: 140px;
     width: 1500px;
     background-color: #24d8dc;
     position: fixed;
@@ -41,21 +41,21 @@ img {
 }
 #footer {
     height: 80px;
-    width: 1500px;
+    width: 1250px;
     clear: both;
     background-color:#24d8dc;
     padding: 10px 50px 50px 150px;
     font-size: 30px;
 }    
 h1 {
-    font-familY: Courier;
-    font-size: 40px;
+    font-family: Courier;
+    font-size: 30px;
     padding: 20px 0 0 250px;
     position: absolute;
 }
 #pheader {
     font-family: Courier;
-    font-size: 30px;
+    font-size: 20px;
     padding: 20px 20px 0 0;
     float: right;
 }
