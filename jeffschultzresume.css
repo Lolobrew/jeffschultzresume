@@ -133,8 +133,10 @@ a:visited {
 }
 #refr1 {
 	margin: 140px 0 0 40px;
+	display: inline-block;
 }
 #refr2 {
 	margin: 20px 0 0 40px;
+	display:inline-block;
 }
 
