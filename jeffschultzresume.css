@@ -79,7 +79,7 @@ h1 {
     margin: 290px 0 0 0;
 }
 #ref {
-	margin: 200px 0 0 0;
+	margin: 180px 0 0 0;
 }
 .pright {
     font-size: 25px;
@@ -132,5 +132,9 @@ a:visited {
 	padding: 0 30px 0 40px;
 }
 #refr1 {
-	margin: 160px 0 0 40px;
+	margin: 140px 0 0 40px;
 }
+#refr2 {
+	margin: 20px 0 0 40px;
+}
+
