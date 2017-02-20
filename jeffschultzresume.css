@@ -1,0 +1,168 @@
+div {
+    border: 2px groove black;
+    border-radius: 5px;
+}
+#top-left {
+    height: 300px;
+    width: 200px;
+    display: inline-block;
+    border: 1px solid black;
+    border-radius: 15px;
+    margin: 0 0 0 10px;
+    
+}
+#img1 {
+    height: 299px;
+    width: 200px;
+    border-radius: 15px;
+}
+#header {
+    height: 300px;
+    width: 1500px;
+    background-color: #24d8dc;
+    padding: auto;
+    position: fixed;
+    z-index: 1;
+}
+.left {
+    float: left;
+    height: 1600px;
+    width:400px;
+    display: inline-block;
+    background-color: #DDE8DD;
+}
+.right {
+    height: 1600px;
+    width: 1098px;
+    display: inline-block;
+    background-color: silver;
+    float: right;
+    position: absolute;
+}
+#footer {
+    height: 100px;
+    width: 1501px;
+    clear: both;
+    background-color:#24d8dc;
+    font-size: 25px;
+	border-top: 1px groove black;
+}    
+h1 {
+    font-familY: Courier;
+    font-size: 60px;
+    padding: 40px 0 0 250px;
+    position: absolute;
+}
+#pheader {
+    font-family: Courier;
+    float: right;
+    font-size: 30px;
+    padding: 40px 20px 0 0;
+}
+.ulleft {
+    position: relative;
+    padding: 0 0 0 100px;
+    font-family: Courier;
+    font-size: 25px;
+}
+
+#obj {
+    margin: 350px 0 0 0px;
+}
+#workexp {
+    margin: 100px 0 0 0px;
+}
+#ed {
+    margin: 410px 0 0 0;
+}
+#int {
+    margin: 290px 0 0 0;
+}
+#ref {
+	margin: 130px 0 0 0;
+}
+.pright {
+    font-size: 25px;
+    position: relative;
+}
+#objr {
+    margin: 350px 0 0 40px;
+}
+#workexpr1 {
+    margin: 100px 0 0 40px;
+}
+#workexpr2 {
+    margin: 150px 0 0 40px;
+}
+#span1 {
+    float: right;
+}
+.edr {
+	position: relative;
+	font-size: 25px;
+	margin: 30px 0 0 40px;
+}
+#edr1 {
+	z-index: none;
+  	margin: 170px 0 0 40px;
+}
+.intr {
+	position: relative;
+	margin: 30px 0 0 120px;
+	font-size: 25px;
+	display: inline-block;
+}
+#int1 {
+	margin: 110px 0 0 120px;
+}
+a {
+	text-decoration: none;
+}
+a:hover {
+	color: #F99F1A;
+}
+a:visited {
+	color: lawngreen;
+}
+.refr {
+	position: relative;
+	font-size: 25px;
+	margin: 20px 0 0 40px;
+	display: inline-block;
+	padding: 0 30px 0 40px;
+}
+#refr1 {
+	margin: 120px 0 0 40px;
+	display: inline-block;
+}
+#email {
+	border: none;
+	float: left;
+	width: 800px;
+	position: relative;
+	bottom: 20px;
+	left: 10px;
+}
+.socialm > li {
+	display: inline;
+	float: right;
+	height: 100px;
+	border: none;
+        z-index: 1;
+	position: relative;
+	bottom: 15px;
+	right: 20px;
+	padding: 0 0 0 5px;
+}
+#fb {
+	height:80px;
+	width: 80px;
+}
+#linkedin {
+	height: 80px;
+	width: 80px;
+}
+#twitter {
+	height: 80px;
+	width: 80px;
+}
